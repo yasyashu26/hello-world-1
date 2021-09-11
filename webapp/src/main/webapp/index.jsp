@@ -1,3 +1,3 @@
-<h1> Hello, Welcome to Docker Certification Training !!! </h1>
-Doing Deployments using Ansible
+<h1> Hello, Welcome to DevOps Certification Training !!! </h1>
+
 
