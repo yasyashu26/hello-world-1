@@ -1,4 +1,4 @@
 <h1> Hello, Welcome to DevOps Certification Training !!! </h1>
-Testing CICD using Poll SCM
+Testing CICD using Poll SCM and deploying using Ansible instead of Jenkins.
 
 
